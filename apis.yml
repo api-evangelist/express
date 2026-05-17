@@ -35,7 +35,7 @@ apis:
     properties:
       - type: Documentation
         url: https://expressjs.com/en/4x/api.html
-      - type: Getting Started
+      - type: GettingStarted
         url: https://expressjs.com/en/starter/installing.html
       - type: GitHub
         url: https://github.com/expressjs/express
@@ -46,7 +46,7 @@ common:
     url: https://expressjs.com
   - type: Documentation
     url: https://expressjs.com/en/4x/api.html
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/expressjs
   - type: Foundation
     url: https://openjsf.org
