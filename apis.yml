@@ -43,6 +43,10 @@ apis:
       - type: NPM
         url: https://www.npmjs.com/package/express
 common:
+  - type: VulnerabilityDisclosure
+    url: security/express-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/express-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/express-llc
   - type: Website
@@ -55,6 +59,8 @@ common:
     url: https://openjsf.org
   - type: License
     url: https://github.com/expressjs/express/blob/master/LICENSE
+  - url: https://expressjs.com/feed.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
