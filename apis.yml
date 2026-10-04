@@ -7,15 +7,20 @@ description: >-
   most widely used HTTP server frameworks in the JavaScript ecosystem.
 type: Index
 deliveryModel:
-  model: unknown
-  open_source: false
+  model: self-hosted
+  license: MIT
+  license_evidence:
+    repo: expressjs/express
+    spdx: MIT
+    stars: 69474
+  open_source: true
   commercial: false
   callable_host: false
-  label: Delivery model not determined — needs a product licence on record
-  confidence: low
+  label: Self-hosted open source · you run it yourself
+  confidence: medium
   source:
-  - none
-  generated: '2026-08-28'
+  - repository-license
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: freemium
@@ -36,7 +41,7 @@ tags:
   - HTTP
   - Middleware
   - Node.js
-  - Open-Source
+  - Open Source
   - Web Framework
   - Fortune 1000
 tags_raw:
@@ -48,6 +53,7 @@ tags_raw:
   - Open Source
   - Web Framework
   - Fortune 1000
+  - Open-Source
 url: https://expressjs.com
 created: '2025-01-01'
 modified: '2026-04-28'
