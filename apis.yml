@@ -81,6 +81,12 @@ apis:
       - type: NPM
         url: https://www.npmjs.com/package/express
 common:
+  - type: Plans
+    url: plans/express-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/express-rate-limits.yml
+  - type: FinOps
+    url: finops/express-finops.yml
   - type: VulnerabilityDisclosure
     url: security/express-vulnerability-disclosure.yml
   - type: DomainSecurity
