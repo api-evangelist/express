@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "express",
+    "captured_at": "2026-10-11T185152",
+    "source_url": "https://expressjs.com",
+    "source_type": "Website",
+    "file": "express-2026-10-11T185152.png",
+    "bytes": 182910,
+    "capture": "playwright-local"
+  }
+]
