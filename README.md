@@ -1,4 +1,4 @@
-# Express (express)
+# Express
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,49 +66,103 @@
 
 Express is a fast, unopinionated, minimalist web framework for Node.js, providing a robust set of features for building web and mobile applications and APIs. Maintained under the OpenJS Foundation, Express is one of the most widely used HTTP server frameworks in the JavaScript ecosystem.
 
-**URL:** [Visit APIs.json URL](https://expressjs.com)
+**Areas:** Express.js · Framework · HTTP · Middleware · Node.js · Open Source · Web Framework · Fortune 1000
 
-## Scope
+## Express on APIs.io
 
-- **Type:** Index
+Everything profiled for Express is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/express/](https://apis.io/providers/express/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Express.js, Framework, HTTP, Middleware, Node.js, Open Source, Web Framework
+- [Express](https://apis.io/apis/express/express/) — Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications, including…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (2)
 
-### Express
-Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications, including routing, middleware support, and HTTP utility methods.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://expressjs.com](https://expressjs.com)
+- [Express Domain Security](https://apis.io/security/express/express-domain-security/)
+- [Express Vulnerability Disclosure](https://apis.io/security/express/express-vulnerability-disclosure/)
 
-#### Tags:
+#### Plans and pricing (1)
 
- - Express.js, Framework, Node.js, Web Framework
+Published plans, tiers and prices.
 
-#### Properties
+- [Express Plans Pricing](https://apis.io/plans/express/express-plans-pricing/)
 
-- [Documentation](https://expressjs.com/en/4x/api.html)
-- [Getting Started](https://expressjs.com/en/starter/installing.html)
-- [GitHub](https://github.com/expressjs/express)
-- [NPM](https://www.npmjs.com/package/express)
+#### Rate limits (1)
 
-## Common Properties
+Published request limits.
+
+- [Express Rate Limits](https://apis.io/rate-limits/express/express-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Express Finops](https://apis.io/finops/express/express-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://expressjs.com)
 - [Documentation](https://expressjs.com/en/4x/api.html)
-- [GitHub Organization](https://github.com/expressjs)
-- [Foundation](https://openjsf.org)
-- [License](https://github.com/expressjs/express/blob/master/LICENSE)
+- [Blog](https://expressjs.com/feed.xml)
+- [GitHub](https://github.com/expressjs)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 13.6** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/express/](https://apis.io/providers/express/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Express: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/express/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
